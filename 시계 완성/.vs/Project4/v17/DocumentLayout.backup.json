@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tkdal\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uB768\uBE75\uD55C \uC2DC\uACC4\uB791 \uAD1C\uCC2E\uC740 \uC2DC\uACC4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E618B11-7BE4-49A9-B14D-A54E640999CF}|Project4.vcxproj|C:\\Users\\tkdal\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uB768\uBE75\uD55C \uC2DC\uACC4\uB791 \uAD1C\uCC2E\uC740 \uC2DC\uACC4\\\uBCF4\uB178\uBCF4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E618B11-7BE4-49A9-B14D-A54E640999CF}|Project4.vcxproj|solutionrelative:\uBCF4\uB178\uBCF4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E618B11-7BE4-49A9-B14D-A54E640999CF}|Project4.vcxproj|C:\\Users\\tkdal\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uB768\uBE75\uD55C \uC2DC\uACC4\uB791 \uAD1C\uCC2E\uC740 \uC2DC\uACC4\\\uC608\uC05C\uAC70.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E618B11-7BE4-49A9-B14D-A54E640999CF}|Project4.vcxproj|solutionrelative:\uC608\uC05C\uAC70.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uC608\uC05C\uAC70.c",
+              "DocumentMoniker": "C:\\Users\\tkdal\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uB768\uBE75\uD55C \uC2DC\uACC4\uB791 \uAD1C\uCC2E\uC740 \uC2DC\uACC4\\\uC608\uC05C\uAC70.c",
+              "RelativeDocumentMoniker": "\uC608\uC05C\uAC70.c",
+              "ToolTip": "C:\\Users\\tkdal\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uB768\uBE75\uD55C \uC2DC\uACC4\uB791 \uAD1C\uCC2E\uC740 \uC2DC\uACC4\\\uC608\uC05C\uAC70.c",
+              "RelativeToolTip": "\uC608\uC05C\uAC70.c",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-25T11:54:40.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uBCF4\uB178\uBCF4.c",
+              "DocumentMoniker": "C:\\Users\\tkdal\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uB768\uBE75\uD55C \uC2DC\uACC4\uB791 \uAD1C\uCC2E\uC740 \uC2DC\uACC4\\\uBCF4\uB178\uBCF4.c",
+              "RelativeDocumentMoniker": "\uBCF4\uB178\uBCF4.c",
+              "ToolTip": "C:\\Users\\tkdal\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uB768\uBE75\uD55C \uC2DC\uACC4\uB791 \uAD1C\uCC2E\uC740 \uC2DC\uACC4\\\uBCF4\uB178\uBCF4.c*",
+              "RelativeToolTip": "\uBCF4\uB178\uBCF4.c*",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAAKgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-18T10:19:48.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
